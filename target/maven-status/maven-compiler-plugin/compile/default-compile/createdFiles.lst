@@ -1,0 +1,7 @@
+com\myblog\model\BlogProfile.class
+com\myblog\controller\HelloController.class
+com\myblog\controller\BlogController.class
+com\myblog\MyBlogApplication.class
+com\myblog\model\PersonalProfile.class
+com\myblog\model\MeResponse.class
+com\myblog\model\MessageRequest.class
