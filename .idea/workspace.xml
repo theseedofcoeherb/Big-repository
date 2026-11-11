@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d1b407-1682-48da-8231-cdaccf8aac00" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/controller/MessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/model/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/repository/InMemoryMessageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/repository/MessageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/service/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/myblog/MyBlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myblog/MyBlogApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myblog/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myblog/controller/BlogController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myblog/model/MessageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myblog/model/MessageRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/controller/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/controller/BlogController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/model/MessageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/model/MessageRequest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HttpClientOnboardingState"><![CDATA[{
+  "isOnboardingCommentShown": true
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 5
@@ -49,8 +44,10 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "Spring Boot.MyBlogApplication.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "lab4",
-    "kotlin-language-version-configured": "true"
+    "git-widget-placeholder": "lab5",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": ""
   }
 }]]></component>
   <component name="SharedIndexes">
