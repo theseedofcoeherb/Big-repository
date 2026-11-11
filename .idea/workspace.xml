@@ -5,19 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="33d1b407-1682-48da-8231-cdaccf8aac00" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/controller/BlogController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/model/MessageRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/controller/MessageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/model/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/repository/InMemoryMessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/repository/MessageRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/myblog/service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/myblog/MyBlogApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myblog/MyBlogApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/myblog/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myblog/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/MyBlogApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/MyBlogApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/model/BlogProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/model/BlogProfile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/model/MeResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/model/MeResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/model/PersonalProfile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/model/PersonalProfile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myblog/controller/BlogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myblog/controller/BlogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/myblog/model/MessageRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/myblog/model/MessageRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/controller/BlogController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/controller/BlogController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/myblog/model/MessageRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/myblog/model/MessageRequest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,5 +73,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

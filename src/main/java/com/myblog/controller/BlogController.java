@@ -9,7 +9,7 @@ import java.util.List;
     @RestController
     public class BlogController{
         private final List<MessageRequest> messages = new ArrayList<>();
-        @PostMapping("/messages")
+        @PostMapping("/blogs")
         public MessageRequest create(@RequestBody MessageRequest request){
 
             messages.add(request);
@@ -17,12 +17,12 @@ import java.util.List;
             return request;
         }
 
-        @GetMapping("/messages")
+        @GetMapping("/blogs")
         public List<MessageRequest> listAllMessage(){
             return messages;
         }
 
-        @GetMapping("/messages/{index}")
+        @GetMapping("/blogs/{index}")
         public MessageRequest getOneMessage(@PathVariable int index){
             return messages.get(index);
         }
