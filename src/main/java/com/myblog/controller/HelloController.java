@@ -42,7 +42,7 @@ public class HelloController {
     public MeResponse me() {
         MeResponse meResponse = new MeResponse();
         meResponse.name = "MyBlog";
-        meResponse.owner = "herb";
+        meResponse.owner = "hello im herb hhh";
         return meResponse;
     }
 
