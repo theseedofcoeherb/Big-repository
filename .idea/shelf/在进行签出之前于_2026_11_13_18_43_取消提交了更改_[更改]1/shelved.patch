@@ -1,0 +1,16 @@
+Index: src/main/java/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>target/\r\n.idea/\r\n*.iml
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/.gitignore b/src/main/java/.gitignore
+--- a/src/main/java/.gitignore	(revision e814f7a4f495051137e189ce82a056119dce5c10)
++++ b/src/main/java/.gitignore	(date 1794566569226)
+@@ -1,3 +1,4 @@
+ target/
+ .idea/
++.idea_backuo/
+ *.iml
+\ No newline at end of file
